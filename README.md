@@ -29,5 +29,5 @@ E-commerce storefront for everyday essentials (electronics, home, and accessorie
 
 ### Optional GitHub Pages
 If deployed, open: `https://<your-username>.github.io/capstone-YourName-lab5/`
-<img width="1893" height="930" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/b0592e11-d3b8-422d-a577-ee0362d17863" />
 <img width="1877" height="941" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/f3c97dc3-ce0d-4e4a-9e3b-bd3a96f2b626" />
+<img width="1893" height="930" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/b0592e11-d3b8-422d-a577-ee0362d17863" />
